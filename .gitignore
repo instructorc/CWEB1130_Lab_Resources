@@ -1,6 +1,6 @@
 # leave out
 .index.js
-backend/routes/users.js
-frontend/src/Offers.js
-frontend/src/index.js
-backend/package-lock.json
+/backend/routes/users.js
+/frontend/src/Offers.js
+/frontend/src/index.js
+/backend/package-lock.json
